@@ -9,7 +9,7 @@
 
     <test name="Android Functional Tests">
         <classes>
-            <class name="com.framework.tests.LoginTest" />
+            <class name="tests.LoginTest" />
         </classes>
     </test>
 
